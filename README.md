@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm J.x, I like coding, and i want to build simple and pratical utility applications and tools.
+I'm J.x, I like coding, and I want to build simple and pratical utility applications and tools.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClearXs&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClearXs&theme=2077)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=clearxs&layout=compact&langs_count=10)
